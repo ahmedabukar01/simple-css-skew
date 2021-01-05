@@ -1,0 +1,21 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    background:#1c3beb;
+    font-size:20px;
+    color:#fff;
+}
+.all{
+    background:#f3ff;
+    padding:200px 100px;
+    transform: skew(0deg, -10deg) translateY(-120px);
+}
+.container{
+    transform: skew(0deg, 10deg);
+}
+
+.down{
+    padding: 30px 100px;
+    text-align:right;
+}
